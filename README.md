@@ -1,3 +1,3 @@
 # gittest
-git for project
+**git for project
 777
